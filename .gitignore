@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+ios/Pods/
+android/app/build/
+
+# Logs
+*.log
+
+# Build files
+ios/build/
+android/app/build/
+
+# Environment files
+.env*
+
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+
+# Android
+android/app/build/
+android/build/
+android/gradle/
+android/local.properties
+
+# Miscellaneous
+*.iml
+.DS_Store
+.idea/
+.vscode/
+
