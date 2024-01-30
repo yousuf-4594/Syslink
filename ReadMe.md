@@ -7,7 +7,7 @@
 [![Click to watch the video](https://img.youtube.com/vi/OOE7VMgPxB8/0.jpg)](https://www.youtube.com/watch?v=OOE7VMgPxB8)
 
 
-SysLink is a groundbreaking mobile application designed to give you unparalleled remote control and insights into your computer's performance. Whether you're running Windows or Linux, SysLink enables seamless remote monitoring and management. Dive into a world of possibilities and take command of your machine from anywhere.
+SysLink is a mobile application designed to give you unparalleled remote control and insights into your computer's performance. Whether you're running Windows or Linux, SysLink enables seamless remote monitoring and management. Dive into a world of possibilities and take command of your machine from anywhere.
 
 ## Features
 
