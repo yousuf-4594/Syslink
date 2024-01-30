@@ -15,23 +15,36 @@ SysLink is a groundbreaking mobile application designed to give you unparalleled
 - **Real-time Disk Consumption:** Track disk space usage as it happens.
 - **Real-time WiFi Stats:** Stay connected with real-time WiFi up and downtime in Mb/s, alongside WiFi ping.
 - **Network Information:** Explore detailed network insights including hostname, interface, and connection type.
+\
+
+  <img src="img/1.png" alt="Settings screen" width="400"/>
+  <img src="img/2.png" alt="Settings screen" width="400"/>
+
+
 
 ### Control:
 - **Remote Volume Control:** Fine-tune your system's audio remotely.
 - **Scheduled Shutdowns:** Automate your PC's shutdowns with convenient scheduling.
 - **Immediate Shutdown:** Turn off your PC remotely at a moment's notice.
 - **Restart:** Initiate a remote restart for a fresh system start.
+<img src="img/7.jpg" alt="Settings screen" width="400"/>
+
 
 ### Process Management:
 - **Process Count:** Gauge the overall number of processes running on your computer.
 - **Active and Sleeping Processes:** Monitor the status of active and sleeping processes.
 - **Task Manager View:** Peek into your system's task manager remotely.
 - **Profile Information:** Check the count of active and inactive user profiles on your computer.
+  <img src="img/3.png" alt="Settings screen" width="400"/>
 
 ### Remote Terminal Access:
 - **Full Terminal Control:** Take command with complete control over your PC through the command line.
-- **File System Access:** Navigate and manage system files and folders with the remote file manager.
+   <img src="img/4.jpg" alt="Settings screen" width="400"/>
+   
 
+   
+- **File System Access:** Navigate and manage system files and folders with the remote file manager.
+    <img src="img/5.png" alt="Settings screen" width="400"/>
 
 # Getting Started with SysLink
 
@@ -60,6 +73,8 @@ To start using SysLink, follow these simple steps:
    This will build and run the SysLink app on your Android device.
 
 4. Add your machine Ip Adress, username and password in settings menu
+
+    <img src="img/6.jpg" alt="Settings screen" width="400"/>
 
 Now you're all set to explore the powerful features of SysLink on your mobile device! Connect to your computer, monitor in real-time, and take control remotely.
 
