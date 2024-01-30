@@ -1,4 +1,8 @@
+
+![ic_launcher](https://github.com/yousuf-4594/Syslink/assets/108923755/30464261-3a85-4243-8a4d-3f529af0afd9)
+
 # SysLink: Empower Your Machines - Remote System Monitoring and Control 
+---
 ### Watch Video:
 [![Click to watch the video](https://img.youtube.com/vi/OOE7VMgPxB8/0.jpg)](https://www.youtube.com/watch?v=OOE7VMgPxB8)
 
@@ -99,4 +103,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 ![Build](https://github.com/dwyl/auth_plug/actions/workflows/ci.yml/badge.svg)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yousuf-4594/Syslink/issues)
